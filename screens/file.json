@@ -1,0 +1,65 @@
+{
+  "automobile": {
+    "main_category_details": {
+      "name": "Automobile",
+      "description": "this is automobile services of any kind"
+    },
+    "automobile_sub_category_details": [
+      {
+        "sub_category_id": 38,
+        "name": "Car Wash",
+        "img": "/storage/client/1633681372"
+      },
+      {
+        "sub_category_id": 44,
+        "name": "Chauffer Service",
+        "img": "/storage/client/1633681721"
+      },
+      {
+        "sub_category_id": 43,
+        "name": "Wheel balancing",
+        "img": "/storage/client/1633681693"
+      },
+      {
+        "sub_category_id": 36,
+        "name": "Upholstery repair",
+        "img": "/storage/client/1633681259"
+      }
+    ]
+  },
+  "beauty": {
+    "main_category_details": {
+      "name": "Beauty",
+      "description": "this is a beauty products"
+    },
+    "beauty_sub_category_details": []
+  },
+  "graphic_and_design": {
+    "main_category_details": {
+      "name": "Graphic Design & Digital Art",
+      "description": "ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmo"
+    },
+    "graphic_and_design_sub_category_details": []
+  },
+  "maintenance": {
+    "main_category_details": {
+      "name": "Home Maintenance",
+      "description": "ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmo"
+    },
+    "maintenance_sub_category_details": []
+  },
+  "tech": {
+    "main_category_details": {
+      "name": "Tech",
+      "description": "ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmo"
+    },
+    "tech_sub_category_details": []
+  },
+  "event": {
+    "main_category_details": {
+      "name": "Event",
+      "description": "ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmo"
+    },
+    "event_sub_category_details": []
+  }
+}

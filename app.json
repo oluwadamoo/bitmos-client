@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Bytmos",
+    "slug": "bytmos",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/logos/blue.png",
+    "splash": {
+      "image": "./assets/images/logos/Bytmos.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#00709e"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/logos/blue.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.bytmos"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
